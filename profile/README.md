@@ -23,7 +23,7 @@ That's all you need to run the entirety of the project!
 - Overhaul of the Settings Builder UI
 
 ## Contributors 
-This project would not have been possible without its wonder [contributors](https://github.com/Project-Netherworld/.github/wiki/Contributors)!
+This project would not have been possible without its wonderful [contributors](https://github.com/Project-Netherworld/.github/wiki/Contributors)!
 
 <!--
 
