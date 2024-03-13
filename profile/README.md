@@ -13,7 +13,7 @@ Each part of the project has its own simple installation guide- including the [f
 ## Usage 
 1. Create your [Discord Bot](https://github.com/Project-Netherworld/IdolaDeus/wiki/Creating-a-Discord-Bot) and settings JSON file via the [settings builder](https://github.com/Project-Netherworld/IdolaDeus) and save it into the config folder of the front end.
 2. Run the [back end](https://github.com/Project-Netherworld/Ayakashi/wiki/Usage-Guide) on your favorite port.
-3. Run the [front end](https://github.com/Project-Netherworld/Phantasmagoria/wiki/Usage-Guide)
+3. Run the [front end](https://github.com/Project-Netherworld/Phantasmagoria/wiki/Usage-Guide) with the settings file as a command line argument. 
 
 That's all you need to run the entirety of the project! 
 
