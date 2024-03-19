@@ -7,6 +7,10 @@
 - Many settings for customizability, all of which can be set through a [Settings Builder Web UI](https://project-netherworld.github.io/IdolaDeus/).
 - A Front End and Back End, allowing for either running both locally or between two different computers.
 
+### Demonstration of Features
+A Demo of features can be found [here](https://www.youtube.com/watch?v=pmH4AbOqFYw).
+
+
 ## Installation 
 Each part of the project has its own simple installation guide- including the [front end](https://github.com/Project-Netherworld/Phantasmagoria), [back end](https://github.com/Project-Netherworld/Ayakashi), and [settings builder(only needed for offline use)](https://github.com/Project-Netherworld/IdolaDeus).
 
