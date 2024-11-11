@@ -1,4 +1,4 @@
-# Project Netherworld is a Conversational Agent Application Designed to be Robust yet Simple. 
+# Project Netherworld is a Conversational AI Agent Application Designed to be Robust yet Simple. 
 
 ## Features
 - Variety of robust Discord slash commands to assist with various topics from conversation to writing.
@@ -20,11 +20,6 @@ Each part of the project has its own simple installation guide- including the [f
 3. Run the [front end](https://github.com/Project-Netherworld/Phantasmagoria/wiki/Usage-Guide) with the settings file as a command line argument. 
 
 That's all you need to run the entirety of the project! 
-
-## Planned Features 
-- LLama support
-- Introduction of various options, such as loading models in int4, low CPU mode, etc..
-- Overhaul of the Settings Builder UI
 
 ## Contributors 
 This project would not have been possible without its wonderful [contributors](https://github.com/Project-Netherworld/.github/wiki/Contributors)!
